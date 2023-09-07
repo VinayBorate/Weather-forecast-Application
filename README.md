@@ -1,4 +1,4 @@
 # Weather Forecast Application
 # User Interface 
 # 1) Front page
-<img src="/ScreanShort/frontpage.png">
+<img src="/ScreenShort/frontpage.png">
